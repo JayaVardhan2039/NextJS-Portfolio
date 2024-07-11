@@ -3,7 +3,7 @@
 import { FiDownload } from "react-icons/fi";
 import { Button } from "@/components/ui/button";
 
-const resumeURL = 'https://drive.google.com/uc?export=download&id=1EGcJHGqkM5B04G5HXv-ZjhLrIS_hy_VR';
+const resumeURL = "https://drive.google.com/file/d/1890O0upawU2nfvXp5qcG2SujoviwinRL/view?usp=sharing";
 
 const DownloadButton = () => {
   const handleDownload = () => {
